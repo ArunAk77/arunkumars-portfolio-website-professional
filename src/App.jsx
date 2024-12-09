@@ -7,7 +7,7 @@ const App = () => {
   return (
     <main className="bg-slate-300/20">
       {/* Add basename here */}
-      <Router basename="/my-portfolio-website-professional">
+      <Router basename="/arunkumars-portfolio-website-professional/">
         <Navbar />
         <Content />
       </Router>

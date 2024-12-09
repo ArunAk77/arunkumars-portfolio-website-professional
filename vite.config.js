@@ -14,7 +14,11 @@ export default defineConfig({
       usePolling: true, // Avoids caching issues in mobile browsers
     },
   },
+  build: {
+    outDir: 'dist', // This is where your final build will go
+  },
 });
+
 
 
 
