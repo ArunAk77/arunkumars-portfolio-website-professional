@@ -4,8 +4,8 @@
     },
     "rewrites": [
       {
-        "source": "/(.*)",
-        "destination": "/index.html"
+        "source": "/arunkumars-portfolio-website-professional/(.*)",
+        "destination": "/arunkumars-portfolio-website-professional/index.html"
       }
     ]
   }
