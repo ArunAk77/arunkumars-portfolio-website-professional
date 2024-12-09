@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/my-portfolio-website-professional/', // Set the base to your repository name
+  base: '/arunkumars-portfolio-website-professional/', // Set the base to your repository name
   plugins: [react()],
   assetsInclude: ['**/*.glb'], // Include GLB assets
   server: {
